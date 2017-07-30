@@ -1,0 +1,10 @@
+body {
+	background-image: url("topography.png");
+}
+
+.mainbody {
+	background-color: white;
+	border: 1px solid #cccccc;
+	padding: 20px;
+	overflow: auto;
+}
