@@ -1,5 +1,6 @@
 body {
 	background-image: url("topography.png");
+    padding-bottom: 100px;
 }
 
 .mainbody {
@@ -15,7 +16,6 @@ body {
     position: absolute;
     background-color: #4aaaa5;
     width: 250px;
-   
     align-content: center;
     text-align: center;
     margin-left: 10px;
