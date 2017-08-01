@@ -10,19 +10,21 @@ body {
 }
 
 .post-content {
-    top:0;
+    top: 150px;
     left:15;
     position: absolute;
     background-color: #4aaaa5;
     width: 250px;
-    top: 150px;
+   
     align-content: center;
     text-align: center;
+    margin-left: 10px;
 }
 
 .img-responsive {
     position:relative;
     margin-bottom: 15px;
+
 
 }
 
